@@ -1,6 +1,5 @@
 # final_project.py - Build Sprint 2
-# Core detection/tracking logic only. Output/action logic comes in
-```python
+# Core detection/tracking logic only. Output/action logic comes in. Fixinf bugs
 import cv2
 import face_recognition
 import os
@@ -451,3 +450,4 @@ finally:
 
     print("GPIO and camera cleaned up.")
 ```
+
